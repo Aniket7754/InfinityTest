@@ -1,5 +1,5 @@
 // second largest element
-
+//New
 
 function findSecondLargest(arr) {
     if (arr.length < 2) return null;
